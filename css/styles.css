@@ -11429,7 +11429,7 @@ header.masthead h1, header.masthead .h1 {
     z-index: -1; /* Ensure it stays behind your content */
 }
 
-.masthead {
+header.masthead {
     position: relative;
     overflow: hidden;
 }
