@@ -4718,7 +4718,7 @@ textarea.form-control-lg {
   z-index: 3;
   border-color: #fab19d;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(244, 98, 58, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(102, 16, 242, 0.25);
 }
 
 .accordion-header {
@@ -4827,7 +4827,7 @@ textarea.form-control-lg {
   color: #c34e2e;
   background-color: #e9ecef;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(244, 98, 58, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(102, 16, 242, 0.25);
 }
 
 .page-item:not(:first-child) .page-link {
